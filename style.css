@@ -97,7 +97,7 @@ body{
     border-radius: 20px;
     display: none;
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 380px) {
     .card{
         padding: 20px 10px;
     }
