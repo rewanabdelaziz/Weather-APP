@@ -99,7 +99,7 @@ body{
 }
 @media only screen and (max-width: 320px) {
     .card{
-        padding: 20px 15px;
+        padding: 20px 10px;
     }
     .search button{
         width: 40px;
@@ -112,6 +112,9 @@ body{
         font-size: 35px;
     }
     .humidity, .wind{
-        font-size: 20px;
+        font-size: 15px;
+    }
+    .col img{
+        width: 20%;
     }
 }
